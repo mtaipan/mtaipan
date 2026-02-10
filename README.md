@@ -1,4 +1,9 @@
-## Hi there 👋
+Backend developer.
+
+Java / Spring • PostgreSQL • Linux
+
+Interested in clean architecture and long-term maintainability.
+
 
 <!--
 **mtaipan/mtaipan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
