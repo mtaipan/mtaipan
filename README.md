@@ -1,8 +1,18 @@
-Backend developer.
+## Hi, I'm Makar
 
-Java / Spring • PostgreSQL • Linux
+Backend developer focused on building simple, reliable systems.
 
-Interested in clean architecture and long-term maintainability.
+**Tech stack**
+- Java / Spring
+- PostgreSQL
+- Linux
+
+I care about clean architecture, clarity of code,
+and long-term maintainability over quick hacks.
+
+Currently working on personal backend projects
+and learning through real-world development.
+
 
 
 <!--
