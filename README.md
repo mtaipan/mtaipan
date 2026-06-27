@@ -1,31 +1,22 @@
-## Hi, I'm Makar
+makar@github:~$ ls
 
-Backend developer focused on building simple, reliable systems.
+finance-tracker/
+minecraft-plugin/
+telegram-bot/
+website/
 
-**Tech stack**
-- Java / Spring
-- PostgreSQL
-- Linux
+makar@github:~$ whoami
 
-I care about clean architecture, clarity of code,
-and long-term maintainability over quick hacks.
+Backend Developer
 
-Currently working on personal backend projects
-and learning through real-world development.
+makar@github:~$ uptime
 
+Coding for:
+642 days
 
+makar@github:~$ top
 
-<!--
-**mtaipan/mtaipan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java           ██████████
+Spring         ████████░░
+SQL            █████████░
+Docker         ███████░░░
