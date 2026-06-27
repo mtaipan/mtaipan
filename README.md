@@ -46,7 +46,7 @@
 >
 > `JavaScript`
 
-<sub>↳ замени/добавь ссылки на реальные публичные репозитории, где они есть</sub>
+<sub>↳ https://github.com/mtaipan/PoemOrder</sub>
 
 ---
 
