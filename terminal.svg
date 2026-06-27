@@ -1,0 +1,67 @@
+<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace" role="img">
+<title>GitHub profile terminal for Makar (mtaipan)</title>
+<desc>Stylized green-on-black terminal showing whoami, projects, interests, uptime and a tech-stack panel.</desc>
+<rect x="2" y="2" width="996" height="596" rx="14" fill="#0b0f14" stroke="#1c2530" stroke-width="1.5"/>
+<circle cx="32" cy="27" r="6.5" fill="#ff5f56"/>
+<circle cx="54" cy="27" r="6.5" fill="#febc2e"/>
+<circle cx="76" cy="27" r="6.5" fill="#28c840"/>
+<text x="500" y="32" text-anchor="middle" font-size="14" fill="#7d8590">makar@github: ~</text>
+<line x1="2" y1="52" x2="998" y2="52" stroke="#1c2530" stroke-width="1"/>
+<line x1="626" y1="64" x2="626" y2="536" stroke="#15202b" stroke-width="1"/>
+
+<g font-size="14.5">
+<text x="34" y="84"><tspan fill="#56d364">makar@github</tspan><tspan fill="#7d8590">:~$ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
+<text x="34" y="107" fill="#3fb950" font-weight="600">Makar</text>
+<text x="34" y="127" fill="#e6edf3">Backend Developer</text>
+<text x="34" y="147" fill="#7d8590">Building scalable backend systems and useful things.</text>
+<text x="34" y="177"><tspan fill="#56d364">makar@github</tspan><tspan fill="#7d8590">:~$ </tspan><tspan fill="#e6edf3">ls</tspan></text>
+<text x="34" y="200" fill="#58a6ff">finance-tracker/   minecraft-plugin/   telegram-bot/   website/</text>
+<text x="34" y="230"><tspan fill="#56d364">makar@github</tspan><tspan fill="#7d8590">:~$ </tspan><tspan fill="#e6edf3">cat interests.txt</tspan></text>
+<text x="34" y="253" fill="#c9d1d9"><tspan fill="#3fb950">•</tspan> Backend Architecture   <tspan fill="#3fb950">•</tspan> Distributed Systems</text>
+<text x="34" y="273" fill="#c9d1d9"><tspan fill="#3fb950">•</tspan> Linux   <tspan fill="#3fb950">•</tspan> Chinese Tea   <tspan fill="#3fb950">•</tspan> Photography</text>
+<text x="34" y="293" fill="#c9d1d9"><tspan fill="#3fb950">•</tspan> Strength Training   <tspan fill="#3fb950">•</tspan> Metal Music</text>
+<text x="34" y="323"><tspan fill="#56d364">makar@github</tspan><tspan fill="#7d8590">:~$ </tspan><tspan fill="#e6edf3">uptime</tspan></text>
+<text x="34" y="346" fill="#c9d1d9">Coding for: <tspan fill="#3fb950">642 days</tspan></text>
+<text x="34" y="366" fill="#c9d1d9">Current project: <tspan fill="#58a6ff">TaipanLedger</tspan></text>
+<text x="34" y="386" fill="#c9d1d9">Status: <tspan fill="#3fb950">Learning every day.</tspan></text>
+<text x="34" y="416"><tspan fill="#56d364">makar@github</tspan><tspan fill="#7d8590">:~$</tspan></text>
+<rect x="148" y="404" width="10" height="16" fill="#3fb950"/>
+</g>
+
+<text x="652" y="90" font-size="13.5" fill="#56d364" letter-spacing="1.5">⚡ TECH STACK</text>
+<g font-size="13.5">
+<text x="652" y="132" fill="#e6edf3">Java</text>
+<rect x="722" y="123" width="180" height="8" rx="4" fill="#1c2530"/>
+<rect x="722" y="123" width="162" height="8" rx="4" fill="#3fb950"/>
+<text x="966" y="132" text-anchor="end" fill="#7d8590">90%</text>
+<text x="652" y="164" fill="#e6edf3">Spring</text>
+<rect x="722" y="155" width="180" height="8" rx="4" fill="#1c2530"/>
+<rect x="722" y="155" width="140" height="8" rx="4" fill="#3fb950"/>
+<text x="966" y="164" text-anchor="end" fill="#7d8590">78%</text>
+<text x="652" y="196" fill="#e6edf3">SQL</text>
+<rect x="722" y="187" width="180" height="8" rx="4" fill="#1c2530"/>
+<rect x="722" y="187" width="144" height="8" rx="4" fill="#3fb950"/>
+<text x="966" y="196" text-anchor="end" fill="#7d8590">80%</text>
+<text x="652" y="228" fill="#e6edf3">Docker</text>
+<rect x="722" y="219" width="180" height="8" rx="4" fill="#1c2530"/>
+<rect x="722" y="219" width="99" height="8" rx="4" fill="#56d364"/>
+<text x="966" y="228" text-anchor="end" fill="#7d8590">55%</text>
+<text x="652" y="260" fill="#e6edf3">Python</text>
+<rect x="722" y="251" width="180" height="8" rx="4" fill="#1c2530"/>
+<rect x="722" y="251" width="81" height="8" rx="4" fill="#56d364"/>
+<text x="966" y="260" text-anchor="end" fill="#7d8590">45%</text>
+<text x="652" y="292" fill="#e6edf3">Kotlin</text>
+<rect x="722" y="283" width="180" height="8" rx="4" fill="#1c2530"/>
+<rect x="722" y="283" width="45" height="8" rx="4" fill="#2ea043"/>
+<text x="966" y="292" text-anchor="end" fill="#7d8590">25%</text>
+</g>
+
+<rect x="652" y="324" width="314" height="86" rx="8" fill="#0e141b" stroke="#1c2530"/>
+<text x="668" y="350" font-size="12.5" fill="#56d364" letter-spacing="1">▹ FOCUS</text>
+<text x="668" y="372" font-size="13" fill="#c9d1d9">Backend · Data · Distributed systems</text>
+<text x="668" y="394" font-size="13" fill="#7d8590">Anti-vibecode: I can explain every line.</text>
+
+<line x1="2" y1="548" x2="998" y2="548" stroke="#1c2530" stroke-width="1"/>
+<text x="500" y="572" text-anchor="middle" font-size="12.5" fill="#7d8590">✉ makar@example.com   ·   ✈ @m8kar   ·   🌍 Russia   ·   🕐 UTC+3</text>
+<text x="500" y="590" text-anchor="middle" font-size="12.5" fill="#3fb950" font-style="italic">"Build things that make life easier."</text>
+</svg>
