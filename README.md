@@ -50,14 +50,6 @@
 
 ---
 
-### 📊 Most used languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtaipan&exclude_repo=amdr55600x-rx470-a520mkv2-hackintosh&layout=compact&langs_count=8&hide_border=true&title_color=6DB33F&text_color=c9d1d9&bg_color=0d1117" alt="languages"/>
-</p>
-
----
-
 <p align="center">
   📫 <b>Telegram</b> <a href="https://t.me/bokov_m">@bokov_m</a> &nbsp;·&nbsp; 🌍 Russia (UTC+3)
 </p>
