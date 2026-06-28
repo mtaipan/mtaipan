@@ -35,7 +35,7 @@
 >
 > `Java` `Spring Boot` `Spring Data JPA` `Flyway` `JUnit / Mockito`
 
-**🔹 astronexis** — Minecraft server ecosystem
+**🔹 [astronexis](https://github.com/mtaipan/astronexis)** — Minecraft server ecosystem
 > Telegram-based player auth in Java (ports & adapters, atomic `ON CONFLICT` upserts, HikariCP),
 > a Spring Boot site with payments, and a Python bot with Alembic migrations.
 >
