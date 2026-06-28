@@ -41,7 +41,7 @@
 >
 > `Java` `Spring Boot` `Python` `PostgreSQL`
 
-**🔹 TaipanAntiGrif** — Bedrock anti-grief addon
+**🔹 [TaipanAntiGrif](https://github.com/mtaipan/TaipanAntiGrif)** — Bedrock anti-grief addon
 > Spatial chunk index for fast claim lookup, fail-closed permission resolver, 9-language i18n.
 >
 > `JavaScript`
